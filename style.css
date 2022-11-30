@@ -1,0 +1,96 @@
+body {
+    font-family: Courier New, Verdana, helvetica;
+    font-size: 20px;
+    color: black;
+    background-color: #ffc;
+    margin: 20px;
+    padding: 0;
+}
+
+p {
+    line-height: 25px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    color: #ffc;
+    background-color: #0000FF;
+    font-size: 3em;
+    margin: 0;
+    margin-bottom: 7px;
+    padding: 4px;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 0.5em;
+    border-bottom-style: groove;
+    border-bottom-width: 0.3em;
+    border-bottom-color: lightblue;
+}
+
+h2 {
+    color: white;
+    background-color: #090;
+    font-size: 1.5em;
+    margin: 0;
+    padding: 2px;
+    padding-left: 14px;
+}
+
+h3 {
+    color: #888;
+    font-size: 1.5em;
+}
+
+h4 {
+    color: #666;
+    font-size: 0.8em;
+    margin-top: 5px;
+}
+
+blockquote {
+    color: blue;
+    font-size: 1em;
+    font-style: italic;
+}
+
+
+img {
+    border-style: dashed;
+    border-width: 3px;
+    border-color: #ccc;
+}
+
+a {
+    text-decoration: underline
+    text-color: blue;
+}
+
+a:visited {
+    text-color: purple;
+}
+
+a:hover {
+    text-decoration: none;
+    color: red;
+    background-color: yellow;
+}
+
+li {
+    color: black;
+    font-style: normal;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33%;
+  padding: 5px;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+}
