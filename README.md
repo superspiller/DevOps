@@ -6,6 +6,8 @@ Creator: Yan (Ng Seow Yan)
 Course: SGUS NUS FinTech Batch 9. DevOps Assignment Show and Tell 6 Dec 2023, Tues.
 
 Webpage (output): https://superspiller.github.io/DevOps/
+Public Repository: https://github.com/superspiller/DevOps
+
 
 This project is to display a HTML pages about the Artist Vincent van Gogh. It has 4 files/ parts:
 1. README - this file
