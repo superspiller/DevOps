@@ -24,3 +24,5 @@ For every update made, you would need to add a description, and then commit the 
 Next, go to "Actions", click on the workflow (pages build and deployment), click on the button "Re-run all jobs".
 Wait for the workflow to finish running.
 Go to Settings, click on pages on the left-side bar, clikc on "Visit site" button. You will now be able to the the changes that you have committed.
+
+Also check the "Pull requests", as this is a public site, others could contribute too and make propose changes; and you will need to accept the propose changes, and re-run the workflow as above.
