@@ -15,8 +15,10 @@ This project is to display a HTML pages about the Artist Vincent van Gogh. It ha
 3. styles.css - for the styling of the webpage
 4. images/ several images within this folder
 
-My other team mate will be working on another file/ part for the link to the Sunflower.
+My other self (as a non-collaborator; or anyone can contribute/ propose changes - as this is a publc repository) will be working on another file/ part for the link to the Sunflower. 
 5. sunflower.html
+
+I will then need to review the propose change (via "Pull Requests"), accept the proposal, and re-run the workflow as below.
 
 How to make updates:
 If you need to update the content, that would be in the index.html or the sunflower.html.
@@ -27,4 +29,3 @@ Next, go to "Actions", click on the workflow (pages build and deployment), click
 Wait for the workflow to finish running.
 Go to Settings, click on pages on the left-side bar, clikc on "Visit site" button. You will now be able to the the changes that you have committed.
 
-Also check the "Pull requests", as this is a public site, others could contribute too and make propose changes; and you will need to accept the propose changes, and re-run the workflow as above.
